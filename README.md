@@ -3,13 +3,13 @@
 
 ## Bill of Materials
 - 12x MX Style Switches
-- 4x Heat inserts
-- 3dp case
-- 4x m3 screws
-- 12x Blank dsa keycaps
-- 1x seeed studios xiao rp2040 sma vers
+- 4x M3x5mx4mm heatset inserts
+- 3D Printed case
+- 4x M3x16mm screws
+- 12x Blank DSA keycaps
+- 1x seeed studios xiao rp2040 sma version
 - 1x 0.91" oled screen
-- 1x ec11 rotary encoder
+- 1x EC11 rotary encoder
 - 12x Through-hole 1N4148 Diodes
 
 ## Usecase
