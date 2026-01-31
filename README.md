@@ -11,6 +11,7 @@
 - 1x 0.91" oled screen
 - 1x EC11 rotary encoder
 - 12x Through-hole 1N4148 Diodes
+- 1x knob
 
 ## Usecase
 Id like to use the hackpad for fusion shortcuts to make 3d design easier.
