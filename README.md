@@ -7,7 +7,7 @@ Parts list:
 - 3dp case
 - 4x m3 screws
 - 12x Blank dsa keycaps
-- 1x seeed studios xiao rp2040
+- 1x seeed studios xiao rp2040 sma vers
 - 1x 0.91" oled screen
 - 1x ec11 rotary encoder
 - 12x Through-hole 1N4148 Diodes
